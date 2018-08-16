@@ -2,7 +2,7 @@
 
 ## generate key
 > input keySize
-> output sk(private key) and pk(public key)
+> output sk(private key) and pk(public key)
 
 ``` sh
 (sk,pk): = generateKey(keySize)
