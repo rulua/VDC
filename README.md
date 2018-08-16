@@ -1,0 +1,2 @@
+# VDC
+virtual digital currency
